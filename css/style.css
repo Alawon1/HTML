@@ -1,0 +1,26 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+h1 {
+  color: #0b61bd;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  margin-left: 30px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin: 20px 40px 10px 70px;
+  margin: 70px 20px;
+}
+
+.div-testowy {
+  height: 300px;
+  widows: 400px;
+  background-color: aqua;
+  margin: 20px;
+  padding: 20px;
+  border: 2px red solid;
+}
+/*# sourceMappingURL=style.css.map */

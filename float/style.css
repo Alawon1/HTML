@@ -1,0 +1,16 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.wrapper {
+  width: 970px;
+  background-color: aqua;
+}
+
+.header {
+  width: 100%;
+  height: 200px;
+  background-color: blue;
+}
+/*# sourceMappingURL=style.css.map */
