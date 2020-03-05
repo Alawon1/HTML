@@ -13,10 +13,16 @@
 *{
     
     box-sizing: border-box;
+    --main-color: green;
+}
+
+.test{
+    fill: green;
 }
 
 body{
     margin: 0;
+    background-color: var(--main-color);
 }
 
 .icon-2:before{
